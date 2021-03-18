@@ -12,6 +12,7 @@
      
      
 - 📫 You can check the projects I've been working on in my portfolio: https://princekike27.github.io/Enrique_Portfolio/
+     
      You can also contact me through LinkedIn: https://www.linkedin.com/in/EnriqueBaronGomez/ 
 
 <!---
