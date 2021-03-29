@@ -2,7 +2,7 @@
 - 👀 I'm a Data Analyst and a Python enthusiast. My expertise is in BI, Sales and Marketing Analytics. 
 - 🌱 I’m currently learning Data Science
 - 💞️ Data, Technology, Sports Analytics and Philosophy are my passions. My name is Enrique Barón Gómez 
-     and I have been working in the data analysis field doing sales and marketing analytics for the past 4 years. 
+     and I have been working in the data analysis field doing BI and sales analytics for the past 4 years. 
      I’ve held data analyst positions in dynamic and fast growing startups. I transitioned into analytics from a business 
      background and even though, I was somewhat lost at the beginning of this journey; there has been an awesome community 
      of online courses, teachers and students that helped me to learn about this field, so Thanks Guys! 
