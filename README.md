@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enrique (@princeKike27)
 - 👀 I'm a Data Analyst and a Python enthusiast. My expertise is in Data Analytics and Business Intelligence. 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently doing a MSc in Applied Statistics and Data Science
 - 💞️ Data, Technology, Sports Analytics and Philosophy are my passions. My name is Enrique Barón Gómez 
      and I have been working in the data analysis field doing sales analytics and Business Intelligence for the past 4 years. 
      I’ve held data analyst and BI positions in dynamic and fast growing startups. I transitioned into analytics from a business 
